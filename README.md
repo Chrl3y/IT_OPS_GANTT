@@ -1,1 +1,0 @@
-# IT_OPS_GANTT
